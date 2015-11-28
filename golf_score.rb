@@ -18,3 +18,6 @@ game_results = [
   { par: 3, score: 3 },
   { par: 5, score: 6 }
 ]
+
+full_score =
+full_par = 
