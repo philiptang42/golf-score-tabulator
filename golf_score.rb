@@ -19,5 +19,5 @@ game_results = [
   { par: 5, score: 6 }
 ]
 
-full_score =
-full_par = 
+full_score = 0
+full_par = 0
